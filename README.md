@@ -1,2 +1,2 @@
-# CTS-Bank-Application
-A Bank Application Portal -Java,SpingBoot,SpringMVC,Hiberanate,H2Database
+# CTS-BANK
+Application for a Bank Portal -CTS MFPE Project
